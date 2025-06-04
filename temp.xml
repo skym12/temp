@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
-    <Title>Company Directory</Title>
-    <Prompt>Select Contact</Prompt>
     
     <DirectoryEntry>
         <Name>John Smith</Name>
-        <Office>555-1001</Office>
+        <Telephone>555-1001</Telephone>
         <Mobile>555-2001</Mobile>
         <Home>555-3001</Home>
     </DirectoryEntry>
