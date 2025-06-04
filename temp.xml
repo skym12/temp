@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+    <Title>Company Directory</Title>
+    <Prompt>Select Contact</Prompt>
+    
+    <DirectoryEntry>
+        <Name>John Smith</Name>
+        <Office>555-1001</Office>
+        <Mobile>555-2001</Mobile>
+        <Home>555-3001</Home>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Sarah Johnson</Name>
+        <Office>555-1002</Office>
+        <Mobile>555-2002</Mobile>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Mike Davis</Name>
+        <Office>555-1003</Office>
+        <Mobile>555-2003</Mobile>
+        <Home>555-3003</Home>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Lisa Wilson</Name>
+        <Office>555-1004</Office>
+        <Mobile>555-2004</Mobile>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>David Brown</Name>
+        <Office>555-1005</Office>
+        <Mobile>555-2005</Mobile>
+        <Home>555-3005</Home>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Emma Martinez</Name>
+        <Office>555-1006</Office>
+        <Mobile>555-2006</Mobile>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Tom Anderson</Name>
+        <Office>555-1007</Office>
+        <Mobile>555-2007</Mobile>
+        <Home>555-3007</Home>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Jennifer White</Name>
+        <Office>555-1008</Office>
+        <Mobile>555-2008</Mobile>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>Reception Desk</Name>
+        <Office>555-1000</Office>
+    </DirectoryEntry>
+    
+    <DirectoryEntry>
+        <Name>IT Support</Name>
+        <Office>555-1099</Office>
+        <Mobile>555-2099</Mobile>
+    </DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
