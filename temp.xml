@@ -3,7 +3,7 @@
     
     <DirectoryEntry>
         <Name>John Smith</Name>
-        <Telephone label=Mobile>8451123365</Telephone>
+        <Telephone label="Mobile">8451123365</Telephone>
         <Telephone>5551001</Telephone>
         <Home>555-3001</Home>
     </DirectoryEntry>
