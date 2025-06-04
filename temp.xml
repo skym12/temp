@@ -3,14 +3,12 @@
     
     <DirectoryEntry>
         <Name>John Smith</Name>
-        <Telephone label="Mobile">8451123365</Telephone>
-        <Telephone label="Other">5551001</Telephone>
+        <Telephone label="Mobile">8451123365</Telephone><Telephone label="Other">5551001</Telephone>
     </DirectoryEntry>
     
     <DirectoryEntry>
         <Name>Sarah Johnson</Name>
-        <Telephone label="Mobile">8451123365</Telephone>
-        <Telephone label="Other">5551001</Telephone>
+        <Telephone label="Mobile">8451123365</Telephone><Telephone label="Other">5551001</Telephone>
     </DirectoryEntry>
     
     </YealinkIPPhoneDirectory>
